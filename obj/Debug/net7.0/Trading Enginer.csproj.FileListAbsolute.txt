@@ -1,0 +1,15 @@
+C:\Users\sidka\Trading Enginer\bin\Debug\net7.0\Trading Enginer.exe
+C:\Users\sidka\Trading Enginer\bin\Debug\net7.0\Trading Enginer.deps.json
+C:\Users\sidka\Trading Enginer\bin\Debug\net7.0\Trading Enginer.runtimeconfig.json
+C:\Users\sidka\Trading Enginer\bin\Debug\net7.0\Trading Enginer.dll
+C:\Users\sidka\Trading Enginer\bin\Debug\net7.0\Trading Enginer.pdb
+C:\Users\sidka\Trading Enginer\obj\Debug\net7.0\Trading Enginer.csproj.AssemblyReference.cache
+C:\Users\sidka\Trading Enginer\obj\Debug\net7.0\Trading Enginer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidka\Trading Enginer\obj\Debug\net7.0\Trading Enginer.AssemblyInfoInputs.cache
+C:\Users\sidka\Trading Enginer\obj\Debug\net7.0\Trading Enginer.AssemblyInfo.cs
+C:\Users\sidka\Trading Enginer\obj\Debug\net7.0\Trading Enginer.csproj.CoreCompileInputs.cache
+C:\Users\sidka\Trading Enginer\obj\Debug\net7.0\Trading Enginer.dll
+C:\Users\sidka\Trading Enginer\obj\Debug\net7.0\refint\Trading Enginer.dll
+C:\Users\sidka\Trading Enginer\obj\Debug\net7.0\Trading Enginer.pdb
+C:\Users\sidka\Trading Enginer\obj\Debug\net7.0\Trading Enginer.genruntimeconfig.cache
+C:\Users\sidka\Trading Enginer\obj\Debug\net7.0\ref\Trading Enginer.dll
